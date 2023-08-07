@@ -16,7 +16,8 @@ func main() {
 
 	fmt.Println("-->>  feature sum")
 
-	fmt.Println("-->>  feature develop")
+	fmt.Println("-->>  feature sum2")
+
 }
 
 func onCal(number1, number2 int) int {
