@@ -13,6 +13,8 @@ func main() {
 	fmt.Println(zxx)
 
 	fmt.Println("-->>  fun finish")
+
+	fmt.Println("-->>  feature sum")
 }
 
 func onCal(number1, number2 int) int {
